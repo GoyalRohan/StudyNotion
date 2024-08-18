@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Study Notion By - Pratham Gupta </div>
+          <div className="text-center">Study Notion By - Rohan Goyal </div>
         </div>
       </div>
     </div>
